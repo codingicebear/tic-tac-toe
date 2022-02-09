@@ -1,3 +1,7 @@
+''' This is my first python program I built by my self.
+
+'''
+
 row1 = ["#"," "," "," "," "," "," "," "," "," "]
 
 def display_board(row1):
